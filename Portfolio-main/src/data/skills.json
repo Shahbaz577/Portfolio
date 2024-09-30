@@ -1,0 +1,30 @@
+[
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "MS Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/power.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
+    "title": "Power Point",
+    "imageSrc": "skills/powerpoint.png"
+  }
+]

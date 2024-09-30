@@ -1,0 +1,30 @@
+[
+  {
+    "title": "BANK-LOAN-ANALYSIS",
+    "imageSrc": "projects/powerdiscount.png",
+    "description": "Implemented intuitive navigation, responsive design, and fast loading times, enhanced by engaging shimmer effects to ensure a seamless browsing experience in the Bank Loan Analysis project.",
+    "skills": ["Advance Excel", "Pivot Table", "KPI Dashboards", "Charts"],
+    "code": "https://lnkd.in/gNUWe6R7"
+  },
+  {
+    "title": "HR Analytics Dashboard",
+    "imageSrc": "projects/remotep2p.png",
+    "description": "The HR Analytics Dashboard provides real-time insights into key HR metrics, including employee performance, recruitment efficiency, turnover rates, and diversity demographics.",
+    "skills": ["Power BI", "KPI Dashboards","Data Cleaning"],
+    "code": "https://github.com/Shahbaz577/HR-Analysis-Dashboard"
+  },
+  {
+    "title": "Diwali Sales Analysis ",
+    "imageSrc": "projects/diwali.png",
+    "description": "The Diwali Sales Analysis evaluates consumer behavior and sales performance during the Diwali festival. It includes key metrics such as sales volume, revenue trends, and customer demographics.",
+    "skills": ["Python", "Pandas", "Seaborn", "Matplotlib"],
+    "code": "https://github.com/Shahbaz577/Diwali-Sales"
+  },
+  {
+    "title": "Vrinda Store Data Analysis ",
+    "imageSrc": "projects/download.png",
+    "description": "Vrinda Store Data Analysis Summary: A concise overview of sales trends, customer behavior, inventory management, operational efficiency, and marketing performance, highlighting key insights for improving business growth and efficiency.",
+    "skills": ["Advance Excel", "Pivot Table", "KPI Dashboards", "Charts"],
+    "code": "https://github.com/Shahbaz577/Diwali-Sales"
+  }
+]
